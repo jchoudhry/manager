@@ -1,0 +1,20 @@
+{
+    "name": "developer-setup",
+    "version": "0.1.0",
+    "description": "Guide for interviewing",
+    "repository": {
+        "type": "git",
+        "url": "https://github.dx.utc.com/CHOUDHJM/interview-guide.git"
+    },
+    "author": "Jenny Choudhry <jennifer.choudhry@utc.com>",
+    "license": "MIT",
+    "dependencies": {
+        "remark-cli": "^5.0.0",
+        "remark-preset-lint-recommended": "^3.0.2",
+        "prettier": "^1.14.2"
+    },
+    "scripts": {
+        "lint": "remark . -o",
+        "format": "prettier --write **/*.md"
+    }
+}
