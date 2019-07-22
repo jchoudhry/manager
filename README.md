@@ -10,7 +10,7 @@ It's going to take some time to figure out how things work at the DX, take your 
 
 ### Our Average Week
 
-We'll have a 1:1 every other week for at least 30mn. This meeting discusses topic of substance (coaching, mentorship, giving context, or even venting), not updates. We may also discuss issues that affect the DX: new projects, new standards, etc. This time is yours, however, so any topics that you would like to discuss will be prioritized.
+We'll have a 1:1 every other week for at least 30mn. This meeting discusses topic of substance (coaching, mentorship, giving context, or even venting), not updates. We may also discuss issues that affect the DX: new projects, new standards, etc. This time is yours, however, so topics you bring will be prioritized.
 
 ---
 
@@ -26,7 +26,7 @@ We'll have a 1:1 every other week for at least 30mn. This meeting discusses topi
 
 - **I start with an assumption of positive intent of all involved** - I trust everyone to aim for the same goal: delivering high quality products.
 
-- **Build relationships and learn from expereinces** - I belive the greatest thing we take away from any role are relationships and growth experiences. Take the initiative to meet people whome you do not work directly with. Reflect from challenges and turn them into lessons. This is not easy :) 
+- **Build relationships and learn from experiences** - I believe the greatest thing we take away from any role are relationships and growth. Take the initiative to spend time with those you do not work directly with. Reflect from challenges and transform them into lessons. This is not easy :) 
 
 ---
 
