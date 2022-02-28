@@ -2,15 +2,15 @@
 
 Hi, Welcome to the team.
  
-I'm looking forward to getting to know you! This document is not intended to replace or override the relationship and mutual understanding we will build as we work together, Its intention is to give you an idea of how I think and how I work.
+I'm looking forward to getting to know you! This document is not intended to replace or override the relationship and mutual understanding we will build as we work together, its intention is to give you an idea of how I think and how I work.
 
-It's going to take some time to figure out how things work at the DX, take your time, meet everyone, go to every meeting, write things down and ask all the questions. 
+It's going to take some time to figure out how things work at WeWork, take your time, meet everyone, go to every meeting, write things down and ask all the questions. 
 
 ---
 
 ### Our Average Week
 
-We'll have a 1:1 every other week for at least 30mn. This meeting discusses topic of substance (coaching, mentorship, giving context, or even venting), not updates. We may also discuss issues that affect the DX: new projects, new standards, etc. This time is yours, however, so topics you bring will be prioritized.
+We meet every week for 30-50 mins. This meeting discusses topic of substance (coaching, mentorship, giving context, team happiness, or even venting), not updates. We may also discuss issues that affect WeWork: new squads, new standards, etc. This time is yours, however, so topics you bring will come first.
 
 ---
 
@@ -20,31 +20,39 @@ We'll have a 1:1 every other week for at least 30mn. This meeting discusses topi
 
 - **Critical thinking** - We don’t do anything “because we’ve always done it that way”, we pick the right tool for the right job taking into account the goals of the product and the composition of the teams.
 
-- **Leadership comes from everywhere** - Managers don't have a monopoly on leadership
+- **Leadership comes from everywhere** - Managers don't have a monopoly on leadership.
 
 - **I heavily bias towards action** - I believe starting is the best way to begin learning and make progress. This is not always the correct strategy ;) .
 
 - **I start with an assumption of positive intent of all involved** - I trust everyone to aim for the same goal: delivering high quality products.
 
-- **Build relationships and learn from experiences** - I believe the greatest thing we take away from any role are relationships and growth. Take the initiative to spend time with those you do not work directly with. Reflect from challenges and transform them into lessons. This is not easy :) 
+- **Build relationships, Learn from experiences** - I believe the greatest thing we take away from any role are relationships and growth. Take the initiative to spend time with those you do not work directly with. Reflect from challenges and transform them into lessons. This is not easy :) 
 
 ---
 
 ### Schedule
 
-I am typically in the office between 9:30AM and 5PM. I am usually online in the evening for 1 hour or so. I may work from home a few times a month.
+I am typically in the office between 9:30AM and 5PM. On some days, I drop and pick up my dog from daycare. I may be online in the evening or early morning and may work from home a few times a month.
 
 Very few things are more important than talking to you if you want to talk to me. If you need to talk, let’s talk.
 
 ---
 
+### Practices 
+
+**Feedback** - Every quarter I will ask you to request feedback from two of your teammates on what you do well and area(s) of improvement. My goal is you gain honest feedback while forming a trusting relationship with your team. My hope is you grow from the feedback you hear through this exercise before hearing it from me. At some point I will ask you for feedback and it will help me grow as well.
+
+**Architecture Reviews** - We will strive to create the best solutions and in doing so we will participate in Architecture Reviews. Roadmap and Design reviews can help us make informed decisions. I don't believe in calling all the shots so architecture decisions will be made as a team. Learn more about the Architecture Review Process [here](https://mozilla.github.io/firefox-browser-architecture/text/0006-architecture-review-process.html).
+
+---
+
 ### My Job(s)
 
-#### Across the DX studios
+#### Across WeWork Missions
 
-* Work with cross-functional balanced DX teams to create high value products.
+* Work with cross-functional balanced WeWork teams to create high value products for our members.
 
-* Increase the digital capabilities of Collins Aerospace by introducing new tools, technologies and methodologies
+* Increase the digital capabilities of Community Connections by introducing new tools, technologies and methodologies
  
 * Set up the team for success and autonomy
 
@@ -61,7 +69,7 @@ Very few things are more important than talking to you if you want to talk to me
 
 * **You’re very good at your job.** You wouldn’t be here if you weren’t. If it feels like I’m questioning you it’s because I’m either: a) Trying to gather context. Or b) Playing devil’s advocate.
 
-* **I’m not good at your job.** You know best. I’ll work to provide necessary context and ask questions to help you vet your ideas but I won’t override you.
+* **I’m not good at your job.** I consider my leadership style as visionary. You know best. I’ll work to provide necessary context and ask questions to help you vet your ideas but I will rarely override you.
 
 * **You’ll let me know if you can’t do your job.** One of my main responsibilities is ensuring that you’re set up for success. Occasionally things slip through the cracks and I won’t know I’m letting you down.
 
@@ -75,7 +83,7 @@ Very few things are more important than talking to you if you want to talk to me
 
 * **Provide context.** I’ll try to push information to you as much as I can but feel free to ask about anything else.
 
-* **Provide an outside(ish) perspective.** I may not be working on your project day to day but will be close enough to have informed thoughts.
+* **Provide an outside(ish) perspective.** I may not be hands on in your project day to day but will be close enough to have informed thoughts.
 
 * **Cheer** “I will celebrate your successes. If you're not a person who self-promotes, please let me do it for you. Tell me when things go well, share the things which make you proud, and I'll cheer/share appropriately.“
 
@@ -97,11 +105,25 @@ Very few things are more important than talking to you if you want to talk to me
 
 ### If you need something
 
-* **Snag me at my desk** - *If I have my headphones on, it doesn't mean "I'm in the zone" or expect not to be interrupted (I'm probably just enjoying some music)*. Feel free to grab my attention.
+* **Snag me at my desk** - If it looks like "I'm in the zone", it doesn't mean I expect not to be interrupted. Feel free to grab my attention. I may ask for up to a minute to finish something I am working on, such as an email I'm writing. 
 
-* **Slack me** (@choudhjm). Even if you want in-person meeting, just message me to let me know. If you would rather talk about something over slack, that's fine too.
+* **Slack me** (@jennifer.choudhry). Even if you want an in-person meeting, just message me to let me know. If you would rather talk about something over slack, that's fine too.
  
 * **Throw something on my calendar** If you can't find time, reach out and I will make the time.
+
+---
+
+### My Reputation
+
+Throughout our careers we are each known for a handful of things. Here are some things I've been known for:
+
+- **Delivering** - Finding the gaps and doing what it takes to get the job done.
+
+- **Being creative** - I've participated in winning hackathon teams and used spare time for side projects that have been demoed to the CTO, I've been known for having an innovative side. 
+
+- **Building teams** - Using my agile experience and passion for understanding what makes great teams, I've taken teams from storming to norming quickly.
+
+What will you be known for?
 
 ---
 
@@ -109,17 +131,17 @@ Very few things are more important than talking to you if you want to talk to me
 
 Here are some things I love. If you ever want to strike up a casual conversation and don't know what to talk about these are good bets:
 
-* Interior design
-
-* Yoga & Fitness
-
 * Countries to visit
+
+* Fitness related activities, such as yoga
+
+* Recipes or DIY projects (really, anything we can create with our hands)
 
 ---
 
 ### Miscellaneous
 
-**I can be an introvert** - Do not confuse my quiet with lack of engagement
+**I can be an introvert** - Do not confuse my quietness with a lack of engagement
 
 **When I ask you to do something that feels poorly defined** - You should ask me for both clarification and a call for importance. These questions can save everyone a lot of time.
 
